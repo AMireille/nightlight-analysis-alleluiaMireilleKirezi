@@ -1,3 +1,5 @@
 .venv-ntl
 data/*
+!data/ntl/
+data/ntl/*
 !data/ntl/*.csv
